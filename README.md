@@ -14,16 +14,16 @@ This project aims to analyze breast cancer data and build a predictive model to 
 
 ## Requirements
 To run this project, you need to have Python installed along with the following libraries:
-  numpy
-  pandas
-  scikit-learn
-  streamlit
-  matplotlib
-  seaborn
-  joblib
-  scikeras
-  tensorflow
-  keras
+-  numpy
+-  pandas
+-  scikit-learn
+-  streamlit
+-  matplotlib
+-  seaborn
+-  joblib
+-  scikeras
+-  tensorflow
+-  keras
 
 You can install all the dependencies using the following command:
 ```bash
